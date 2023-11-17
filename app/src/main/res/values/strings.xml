@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Destinasi Wisata Sulteng</string>
+    <string name="home">Home</string>
+    <string name="category">category</string>
+    <!--    <string name="dashboard">Dashboard</string>-->
+    <string name="account">Account</string>
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Gong Perdamaian</item>
+        <item>Danau Paisu Pok</item>
+        <item>Danau Poso</item>
+        <item>Danau Tambing</item>
+        <item>Ratu Ampat</item>
+        <item>Matantimali</item>
+        <item>Megalitik Palu</item>
+        <item>Pusat Laut</item>
+        <item>Air Terjun Saluopo</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            Gong Perdamaian Nusantara atau Monumen Nosarara Nosabatutu yang dalam Bahasa Kaili (suku asli di Sulawesi Tengah) memiliki arti bersaudara dan bersatu.
+            Simbol perdamaian  berupa Gong Perdamaian atau Monumen Nosarara Nosabatutu ini, diresmikan pada tanggal 11 Maret 2014 oleh Brigadir Dewa Parsana Kapolda
+            Sulawesi Tengah, selaku pencetus Ide pembuatan monumen sebagai simbol perdamaian  bertujuan sebagai dasar dalam membangun kebersamaan, kerukunan,
+            dan mengajak seluruh komponen bangsa untuk ikut berperan aktif dalam mewujudkan keamanan, kedamaian, dan kesejahteraan masyarakat Indonesia,
+            khususnya di Sulawesi Tengah. Monumen ini terletak di Kelurahan Tondo, Kecamatan Mantikulore, Kota Palu. Berada di atas bukit yang berjarak 2 km
+            di belakang Mako Polda Sulawesi Tengah, tempat ini bisa dicapai melalui jalan Soekarno-Hatta dengan jalan mendaki sekitar 10 menit dengan
+            menggunakan kendaraan.
+        </item>
+        <item>
+            Danau Paisupok tak seperti danau pada umumnya karena masih sangat asri dengan air yang jernih. Danau ini menjadi salah satu danau terjernih
+            di Indonesia dengan alam yang masih terjaga keasriannya. Air danau yang begitu jernih terlihat bagai kaca yang memungkinkan wisatawan
+            melihat dasar danaunya. Danau Paisupok tak seperti danau pada umumnya karena masih sangat asri dengan air yang jernih. Danau ini menjadi
+            salah satu danau terjernih di Indonesia dengan alam yang masih terjaga keasriannya. Air danau yang begitu jernih terlihat bagai kaca yang
+            memungkinkan wisatawan melihat dasar danaunya. Lokasi danau cantik ini ada di Desa Luk Panenteng, Kecamatan Bulagi Utara, Kabupaten Banggai
+            Kepulauan, Sulawesi Tengah
+        </item>
+        <item>
+            Danau Poso (bahasa Inggris: Poso Lake), merupakan sebuah danau yang terletak di Kabupaten Poso, Provinsi Sulawesi Tengah, Indonesia; dan
+            merupakan danau terdalam ketiga di Indonesia. Danau ini memiliki panjang 32 km dan lebar 16 km. Festival Danau Poso diadakan di Tentena,
+            kota di pinggir danau ini. Danau ini merupakan habitat dari sejumlah ikan, termasuk Sidat Kembang (Anguilla marmorata) yang bermigrasi
+            antara danau dan laut, dan 11 spesies ikan endemik yang hanya terdapat di danau ini, di antaranya Adrianichthys, Mugilogobius amadi,
+            M. sarasinorum, Nomorhamphus celebensis, Oryzias nebulosus, Oryzias nigrimas, dan Oryzias orthognathus, yang semuanya berada dalam keadaan
+            terancam (dalam beberapa kasus kemungkinan telah punah).Di sini juga banyak terdapat siput air tawar endemik Tylomelania, dan juga beberapa
+            udang endemik Caridina dan kepiting Parathelphusidae (umumnya Migmathelphusa, Parathelphusa dan Sundathelphusa).
+        </item>
+        <item>
+            Suasana yang tenang dan sejuk serta pemandangan alam yang masih terjaga, menjadikan Danau Tambing yang terletak di desa Sedoa, Lore Utara
+            di Kabupaten Poso sebagai salah satu lokasi favorit masyarakat Sulawesi Tengah untuk sekedar menghabiskan waktu weekend ataupun mencoba
+            suasana alam usai aktivitas di tengah hiruk pikuk perkotaan. Danau Tambing merupakan bagian dari wilayah kerja Bidang Pengelolaan Taman
+            Nasional Lore Lindu (Wilayah II Makmur) dengan luas wilayah sekitar 6 Hektar dengan titik koordinat 1° 11′ 24″ S, 120° 10′ 48″ E. Untuk
+            mencapai Danau ini, kalian akan menempuh waktu perjalanan berkisar 2-3 jam dengan jarak 90 KM dari Kota Palu. Perjalanan dapat dilakukan
+            dengan kendaraan roda dua maupun roda empat karena fasilitas jalan yang cukup memadai. Berada di ketinggian 1.700 meter dari permukaan laut,
+            membuat area Danau Tambing memiliki temperatur suhu yang sejuk bahkan cenderung dingin khususnya di sore dan malam hari. Tak heran banyak
+            pengunjung khususnya dari Kota Palu yang datang dengan pakaian yang cukup tebal untuk merasakan langsung pengalaman berada di Danau Tambing
+            dengan suhu rata-rata berkisar 15 sampai 10 derajat celcius. Di sekitar Danau terdapat sekitar 263 jenis burung dimana 30 persennya merupakan
+            kategori endemik (tidak bisa ditemukan di daerah lain). Beberapa burung yang dapat ditemukan diantaranya Bondol Rawa (Lanchura Malocca), Alo
+            (Rhyticeros cessidix) atau Pecuk Ular (Anhinga rufa), Elang Ular Sulawesi (Spilornis rufipectus), Elang Sulawesi (Spizaetus Lanceolatus Temminck).
+            Potensi tersebut membuat Danau Tambing menjadi lokasi popular untuk spot bird watching oleh wisatawan domestik maupun mancanegara. Selain itu, di
+            sekitar Danau juga telah disediakan Camping Ground yang dapat dijadikan sebagai lokasi outbound dengan menonjolkan panorama Danau. Lokasi juga telah
+            difasilitasi Mushola dan Toilet umum.
+        </item>
+        <item>
+            Tempat wisata di Tolitoli lainnya adalah Ratu Ampat, yang tergolong baru. Meskipun masih baru, tapi tidak sedikit para wisatawan lokal yang
+            menghabiskan waktu weekend di tempat ini. Jika Anda ke sini pada pagi hari menjelang ‘buta’, Anda akan disuguhkan indahnya sunrise. Pada sore
+            hari, berjumpa dengan sunset. Sehingga hari-hari Anda berada di sini menjadi tercerahkan, dan otak penat menjadi kabur seketika. Ratu Ampat,
+            berada di Desa Malala, Kecamatan Dondo. Jika dari Kota Tolitoli, bisa menempuh menggunakan sepeda motor atau mobil. Memakan waktu sampai satu
+            jam. Setibanya di Malala, dari Pelabuhan Malala menyeberang menggunakan perahu milik warga yang menghabiskan waktu sekitar 15 menit saja. Untuk
+            biaya sewa perahu, tidak sampai merobek kantong Anda.
+        </item>
+        <item>
+            Bagi anda yang sedang berkunjung ke Kota Palu, sempatkan waktu untuk berkunjung ke bukit indah yang satu ini. Terletak di wilayah Kecamatan
+            Banawa Selatan, Kabupaten Sigi – Sulawesi Tengah, Bukit Matantimali yang berjarak sekitar 30 KM dari Kota Palu menawarkan panorama alam yang
+            mempesona dan patut untuk anda coba datangi. Berlokasi di ketinggian 800 mdapl, Bukit Matantimali telah menjadi spot andalan bagi para
+            penggemar olahraga Paralayang untuk menikmati panorama “ Lima Dimensi ” Kota Palu secara keseluruhan. Daya tarik tempat ini membuat Bukit
+            Matantimali sering kali menjadi lokasi perhelatan event olahraga paralayang berskala Nasional  dan Internasional. Tak jarang Bukit
+            Matantimali di sebut - sebut sebagai salah satu Lokasi Paralayang terbaik di Asia bahkan di Dunia. Selama perjalanan menuju Bukit Matantimali,
+            anda akan banyak melihat area persawahan, aliran sungai dan hijaunya hutan pegunungan.  Selain itu, anda pun akan melewati kebun pohon coklat
+            dan kelor yang telah di budidayakan oleh masyarakat setempat. Untuk menuju lokasi, perjalanan akan ditempuh selama kurang lebih 45 menit sampai
+            1 jam dan dapat menggunakan kendaraan roda dua ataupun roda empat. View 'Lima Dimensi' (Gunung, Sungai, Teluk, Lembah dan Pemandangan Kota Palu)
+            yang di miliki Bukit Matantimali menjadi daya tarik utama tempat ini. Keindahan Bukit Matantimali kerap kali di abadikan oleh pengunjung karena
+            di anggap ‘instagramable’ bagi mereka yang aktif di sosial media. Tenda-tenda pengunjung akan dengan mudah di temui di Bukit Matantimali pada
+            saat weekend untuk menikmati indahnya panorama lima dimensi dan sunrise /sunset yang menjadi favorit pengunjung.
+        </item>
+        <item>
+            Pulau Sulawesi punya banyak objek sejarah yang penuh misteri. Pulau Celebes ini kental akan budaya megalitik. Manusia zaman megalitikum
+            menggunakan batu-batu besar untuk menunjang kebutuhan hidup mereka. Salah satu di antaranya ialah Situs Pokekea yang menjadi kesatuan situs
+            megalitik di Lembah Lore Lindu Sulawesi Tengah. Berdasarkan penelitian, kawasan Lore Lindu menjadi tempat situs megalitikum tertua di
+            Indonesia. Dari hasil penanggalan karbon, ada dua periode tradisi megalitik di Lore Lindu, yakni tahun 2.500 hingga 1.500 Sebelum Masehi dan
+            1.500 hingga abad 1 Masehi. Namun kelangsungan hidup tradisi tersebut terjadi bersama sama. Setidaknya kawasan Lore Lindu terdapat 4 lokasi
+            situs megalitikum. Ada Lembah Napu, Lembah Palu, Danau Lindu, dan Lembah Behoa dengan Situs Pokekeanya. Hingga saat ini, peninggalan
+            megalitik Lore Lindu terdapat 83 objek benda yang telah teridentifikasi. Sedangkan di Pokekea Lembah Behoa sendiri ada tugu (menhir),
+            bejana batu (kalamba), meja batu (dolmen), tempat jenazah (sarkofagus) hingga batu arca.
+        </item>
+        <item>
+            Berlokasi di Kabupaten Donggala, Pusat Laut ini merupakan sebuah sumur berbentuk melingkar terdiri dari bebatuan yang letak persisnya hanya
+            beberapa meter dari pantai yang airnya sangat jernih. Pada sisi lain terdapat tangga yang digunakan oleh para pengunjung untuk naik turun ke
+            dalam sumur tersebut. Letak Pusat laut ini berada tak jauh dari Kota Palu, tepatnya di pesisir pantai Desa Towale, Kecamatan Banawa Tengah,
+            Kabupaten Donggala, Sulawesi Tengah. Jaraknya sekitar ±50 km dengan waktu perjalanan 1 jam 30 menit dari Kota Palu. Perjalanan hanya bisa
+            ditempuh menggunakan transportasi darat mobil ataupun motor. Tempat ini telah diresmikan sebagai salah satu destinasi wisata sejak tahun 2000.
+            Nama ‘Pusentasi’ atau Pusat Laut yang dikenal oleh masyarakat sekitar, berasal dari bahasa suku Kaili, suku terbesar yang menghuni Prov.
+            Sulawesi Tengah yaitu “Pusen” yang artinya Pusat dan “Tasi” yang berarti Laut. Menurut cerita, Pusat Laut ini merupakan sebuah fenomena alam
+            yang terbentuk akibat ambrolnya tanah secara tiba tiba kedalam tanah yang bentuknya kebetulan melingkar seperti sebuah sumur. Alasan mengapa
+            runtuhnya permukaan tanah memunculkan air pada tempat tersebut, adalah karena letaknya sangat berdekatan dengan bibir pantai.
+        </item>
+        <item>
+            Air terjun ini biasa disebut oleh masyarakat setempat dengan sebutan air luncur Saluopa yang berarti sumber mata air jernih dari pegunungan
+            yang meluncur deras dari puncak gunung. Air terjun Salopa Poso merupakan salah satu obyek wisata andalan yang terletak di Desa Tonusu,
+            Kecamatan Pamona Utara, Kabupaten Poso yang berjarak sekitar 264 km dari Kota Palu. Anda bisa menempuh perjalanan ke lokasi ini menggunakan
+            kendaraan pribadi dengan biaya karcis masuk dan parkir kendaraan roda empat sebesar Rp5.000. Para pengunjung yang ingin berwisata ke tempat
+            ini disarankan untuk datang sekitar pukul 9.00 WITA untuk menghindari udara yang terlalu dingin. Saat tiba di lokasi, pengunjung harus
+            berjalan sekitar 500 meter melalui hutan untuk menuju lokasi air terjun. Selama perjalanan, mata kita akan dimanjakan dengan pemandangan
+            pepohonan lebat dan tinggi serta suasana hutan tropis yang indah. Tidak hanya kesegaran air dan udara di sekitar lokasi air terjun, wisata
+            ini juga menyajikan keindahan pemandangan yang asrih dengan ciri khas 12 tingkatan air terjunnya. Pengunjung dapat menaiki setiap tingkatan
+            air terjun melalui tangga untuk dapat menikmati keindahan setiap tingkatannya. Selain itu, pengunjung juga dapat memanfaatkan lokasi wisata
+            ini untuk berfoto bersama, bermain air, hingga berendam.
+        </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/gongperdamaian</item>
+        <item>@drawable/danaupaisupok</item>
+        <item>@drawable/danauposo</item>
+        <item>@drawable/danautambing</item>
+        <item>@drawable/ratuampat</item>
+        <item>@drawable/matantimali</item>
+        <item>@drawable/megalitikpalu</item>
+        <item>@drawable/pusatlaut</item>
+        <item>@drawable/airterjunsaluopa</item>
+    </integer-array>
+    <!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+
+</resources>
